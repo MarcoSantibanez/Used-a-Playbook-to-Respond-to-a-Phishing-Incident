@@ -8,6 +8,7 @@ As level-one security operations center (SOC) analyst at a financial services co
 
 
 Phishing Playbook:
+
 ![image](https://github.com/MarcoSantibanez/Used-a-Playbook-to-Respond-to-a-Phishing-Incident/assets/138132151/edbaac90-b2ca-4c65-ae13-bbedfeeaeaaf)
 
 ![image](https://github.com/MarcoSantibanez/Used-a-Playbook-to-Respond-to-a-Phishing-Incident/assets/138132151/89869b35-9980-4623-b918-a41171ef9913)
